@@ -18,7 +18,7 @@ The validation technique employed involved a systematic approach, including prel
 
 ## Repository Overview
 
-In this repository, in the root level, you can find the pdf version of the project and two different folders which gather the code for the two datasets.
+In this repository, in the root level, you can find the pdf version of the project and two different folders which gather the code for the two datasets: MONK and CUP. Both folders contains the dataset employed and jupyter notebooks 
 
 ## Collaborators
 
