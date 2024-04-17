@@ -28,3 +28,6 @@ In this repository, in the root level, you can find the pdf version of the proje
 
 ## Collaborators
 
+* **[Cosimo Faeti](https://github.com/CosimoFaeti)**
+
+
