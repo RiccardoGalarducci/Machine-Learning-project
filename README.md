@@ -1,3 +1,9 @@
+<p align="center">
+  <img width="50%" src="https://github.com/RiccardoGalarducci/Machine-Learning-project/blob/main/img/marchio_unipi_black.png">
+</p>
+<br>
+
+
 # Machine Learning | Project
 
 This repository contains the Machine Learning project developed during the Master's Degree in Data Science & Business Informatics at Univeristy of Pisa.
