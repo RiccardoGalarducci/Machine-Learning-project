@@ -4,7 +4,7 @@
 <br>
 
 
-# Machine Learning | Project
+# ML and DL Models Comparison
 
 This repository contains the Machine Learning project developed during the Master's Degree in Data Science & Business Informatics at Univeristy of Pisa.
 
