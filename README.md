@@ -4,7 +4,7 @@
 <br>
 
 
-# Machine Learning and Deep Learning Models Comparison
+# Machine Learning & Deep Learning Models Comparison
 
 This repository contains the Machine Learning project developed during the Master's Degree in Data Science & Business Informatics at Univeristy of Pisa.
 
