@@ -6,7 +6,7 @@
 
 # Machine Learning & Deep Learning Models Comparison
 
-This repository contains the Machine Learning project developed during my Master's Degree in Data Science & Business Informatics at Univeristy of Pisa.
+This repository contains the **Machine Learning project** developed during my Master's Degree in Data Science & Business Informatics at Univeristy of Pisa.
 
 ## Description
 
@@ -15,7 +15,7 @@ The task afforded consists in the development and performance comparison of thre
 - Random Forest
 - Support Vector Machine (SVM)
 
-on two datasets:
+on two different datasets:
 
 - MONK
 - CUP
