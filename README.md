@@ -11,13 +11,13 @@ This repository contains the **Machine Learning project** developed during my Ma
 ## Description
 
 The task afforded consists in the development and performance comparison of three models:
-- Multi-Layer Perceptron (MLP)
+- Multi-Layer Perceptron
 - Random Forest
-- Support Vector Machine (SVM)
+- Support Vector Machine 
 
 on two different datasets:
 
-- MONK
+-  **[MONK](https://archive.ics.uci.edu/dataset/70/monk+s+problems)**
 - CUP
   
 The validation technique employed involved a systematic approach, including preliminary experimental trials, grid search with different levels of granularity, and k-fold cross-validation, followed by the final model assessment. 
